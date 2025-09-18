@@ -1,0 +1,22 @@
+{
+  "celulares": [
+    {
+      "id": "1",
+      "nombre": "iPhone 15 Pro",
+      "precio": 1200,
+      "imagen": "https://es.digitaltrends.com/wp-content/uploads/2023/09/iphohe-15-pro-iphone-15-pro-max-feat-01.jpeg?resize=1200%2C720&p=1"
+    },
+    {
+      "id": "2",
+      "nombre": "Samsung Galaxy S24",
+      "precio": 1100,
+      "imagen": "https://media.rueducommerce.fr/rd/products/288/288e2b38a625b0c3c458ca47520348e0e3622d28.jpeg"
+    },
+    {
+      "id": "3",
+      "nombre": "Xiaomi 13T",
+      "precio": 650,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_704144-MLA74806234609_022024-O.webp"
+    }
+  ]
+}
